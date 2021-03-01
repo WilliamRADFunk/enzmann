@@ -74,6 +74,6 @@
     "gulp-uglify-es": "^2.0.0",
     "randomcolor": "^0.5.3",
     "stats.js": "^0.17.0",
-    "three": "^0.118.3"
+    "three": "^0.125.0"
   }
 }
